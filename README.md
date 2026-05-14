@@ -1,3 +1,13 @@
+# A-Frame: Green Screen Video + World Tracking
+
+This example uses an A-Frame component for background removal of an mp4 video file.  The video file is placed using World Tracking.
+A custom look-at component is added to the video entity so only the front of the plane is visible.
+
+![](https://i.giphy.com/media/CKoJxXFLRifPv0ZOBP/giphy.gif)
+
+
+Check out the chromakey component [here](https://github.com/nikolaiwarner/aframe-chromakey-material/blob/master/README.md).
+
 ### Your Exported Project
 This zip contains your project source code, assets, image targets, and configuration needed to build and publish your 8th Wall project. It does not connect to any 8th Wall services, so will work even after the 8th Wall servers are shut down.
 
